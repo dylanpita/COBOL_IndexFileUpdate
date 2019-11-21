@@ -1,0 +1,8 @@
+C:\Users\dylan\Desktop\COBOL\IndexedFile\IndexedFile\bin\Debug\IndexedFile.exe
+C:\Users\dylan\Desktop\COBOL\IndexedFile\IndexedFile\bin\Debug\IndexedFile.pdb
+C:\Users\dylan\Desktop\COBOL\IndexedFile\IndexedFile\bin\Debug\IndexedFile.IndexedFile_Program1.idy
+C:\Users\dylan\Desktop\COBOL\IndexedFile\IndexedFile\obj\Debug\IndexedFile.cblprojAssemblyReference.cache
+C:\Users\dylan\Desktop\COBOL\IndexedFile\IndexedFile\obj\Debug\IndexedFile.cblproj.CoreCompileInputs.cache
+C:\Users\dylan\Desktop\COBOL\IndexedFile\IndexedFile\obj\Debug\IndexedFile.IndexedFile_Program1.idy
+C:\Users\dylan\Desktop\COBOL\IndexedFile\IndexedFile\obj\Debug\IndexedFile.exe
+C:\Users\dylan\Desktop\COBOL\IndexedFile\IndexedFile\obj\Debug\IndexedFile.pdb
